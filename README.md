@@ -1,3 +1,5 @@
+[![ENGINYRING](https://cdn.enginyring.com/img/logo_dark.png)](https://www.enginyring.com)
+
 # Auto System Update Script
 
 A robust BASH script that automates system updates on Linux servers while intelligently handling scenarios that require manual intervention.
